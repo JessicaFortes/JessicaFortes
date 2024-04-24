@@ -9,19 +9,19 @@
 <p align="left">
   🦄 Linguagens:
 </p>
-   - Java;
-   - JavaScript;
-   - Ruby;
+   Java;
+   JavaScript;
+   Ruby;
 
 <p align="left">
   💼 Ferramentas: 
 </p>
-  - Cypress;
-  - Selenium;
-  - Appium;
-  - cucumber;
-  - postman;
-  - insominia;
+  Cypress;
+  Selenium;
+  Appium;
+  cucumber;
+  postman;
+  insominia;
 
 <p align="left">
   💌 Como me encontrar: ⤵️
