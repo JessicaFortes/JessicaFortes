@@ -8,28 +8,26 @@
 
 <p align="left">
   🦄 Linguagens:
+</p>
    - Java;
    - JavaScript;
    - Ruby;
-</p>
 
 <p align="left">
   💼 Ferramentas: 
+</p>
   - Cypress;
   - Selenium;
   - Appium;
   - cucumber;
   - postman;
   - insominia;
-</p>
 
 <p align="left">
   💌 Como me encontrar: ⤵️
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://www.linkedin.com/in/jessica-magalh%C3%A3es-21509447/" alt="LinkedIn"/></a>
 </p>
