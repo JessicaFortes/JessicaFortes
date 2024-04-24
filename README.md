@@ -8,11 +8,10 @@
 
 <p align="left">
   🦄 Linguagens:
-</p>
    Java;
    JavaScript;
    Ruby;
-
+</p>
 <p align="left">
   💼 Ferramentas: 
 </p>
