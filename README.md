@@ -14,13 +14,14 @@
 </p>
 <p align="left">
   💼 Ferramentas: 
-</p>
-  Cypress;
+    Cypress;
   Selenium;
   Appium;
   cucumber;
   postman;
   insominia;
+</p>
+
 
 <p align="left">
   💌 Como me encontrar: ⤵️
