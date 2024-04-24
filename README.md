@@ -1,16 +1,35 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**JessicaFortes/JessicaFortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olã! Sous a Jéssica Magalhães 💜
+<p align="left"> 
+  Apaixonada por tecnologia, com mais de 10 anos de experiência na área de QA. Graduada em Análise e Desenvolvimento de Sistemas, e com um MBA em Gestão de Qualidade, tenho um profundo conhecimento em todas as fases do ciclo de vida de desenvolvimento de software.
+  Ao longo da minha carreira, desenvolvi habilidades sólidas em testes de software, automação de testes, análise de requisitos, arquitetura de software e metodologias ágeis. Minha abordagem focada na excelência e na melhoria contínua resultou em entregas de alta qualidade e satisfação do cliente.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens:
+   - Java;
+   - JavaScript;
+   - Ruby;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: 
+  - Cypress;
+  - Selenium;
+  - Appium;
+  - cucumber;
+  - postman;
+  - insominia;
+</p>
+
+<p align="left">
+  💌 Como me encontrar: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://www.linkedin.com/in/jessica-magalh%C3%A3es-21509447/" alt="LinkedIn"/></a>
+</p>
