@@ -28,6 +28,6 @@
 </p>
 
 <p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://www.linkedin.com/in/jessica-magalh%C3%A3es-21509447/" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/jessica-magalh%C3%A3es-21509447/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
